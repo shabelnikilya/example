@@ -1,0 +1,10 @@
+plugins {
+}
+
+allProjects {
+    group 'org.example'
+
+    repositories {
+        mavenCentral()
+    }
+}
